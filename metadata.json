@@ -1,0 +1,6 @@
+{
+  "name": "DesignPro - Product Design Platform",
+  "description": "Full-screen hero section and education platform for emerging product designers and future product leaders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
